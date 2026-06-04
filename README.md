@@ -1,16 +1,26 @@
-## Hi there 👋
+## Hi, I'm Nikel Rijal 👋
 
-<!--
-**nikel-rijal/nikel-rijal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Java Full Stack Developer passionate about building backend applications with Spring Boot.
 
-Here are some ideas to get you started:
+## 💫 About Me 
+- Currently learning Data Structure and Algorithms
+- Building Projects using Java and Spring Boot
+- Looking for Software Development Internship Opportunities
+- Continuously improving and developing my skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- Java
+- Spring Boot
+- Spring Security
+- Hibernate & JPA
+- MySQL
+- Maven
+- Thymeleaf
+- Bootstrap
+- Git & GitHub
+
+## 📂 Projects
+- BookHive - Library Management System
+
+## Connect With Me
+- LinkedIn: https://www.linkedin.com/in/nikel-rijal-0a4311365/
